@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210793201135",
+    "project_id": "flutter-testing-task",
+    "storage_bucket": "flutter-testing-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210793201135:android:857dbddeaa856be1090a1a",
+        "android_client_info": {
+          "package_name": "com.kronusssapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIGzuy1DPfSEw1EVOEmGCgbUblu2rqEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210793201135:android:6fbec7d3e7d0e2b0090a1a",
+        "android_client_info": {
+          "package_name": "flutter.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIGzuy1DPfSEw1EVOEmGCgbUblu2rqEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
